@@ -1,5 +1,5 @@
 # IEA-dataset
-  Large scale images dataset with both aesthetic and emotional labels
+  Large scale images dataset with both aesthetic and emotional labels  
   The download link contains h5py file final_aes_emo.h5  
   The final_aes_emo.h5 contains 3 keys: image, aes, emo  
   images: 22086 images  
