@@ -14,11 +14,11 @@
   [0, 0, 0, 0, 0, 1, 0, 0] represents anger  
   [0, 0, 0, 0, 0, 0, 1, 0] represents fear  
   [0, 0, 0, 0, 0, 0, 0, 1] represents sad  
-
 #Aesthetic Scores  
 The aesthetic raw scores are contained in h5py file scores.h5  
-Scores.h5 contains key: score
+Scores.h5 contains key: score  
 The scores are stored in  22086*11 matrix  
-1-22086 row: the index corresponds to the iamge index in file final_aes_emo.h5
+1-22086 row: the index corresponds to the iamge index in file final_aes_emo.h5  
 1-10 column: ten users  
 11 column: total score of every image  
+
