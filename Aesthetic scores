@@ -1,0 +1,6 @@
+The aesthetic raw scores are contained in h5py file scores.h5  
+Scores.h5 contains key: score
+The scores are stored in  22086*11 matrix  
+1-22086 row: the index corresponds to the iamge in   
+1-10 column: ten users  
+11 column: total score of every image  
