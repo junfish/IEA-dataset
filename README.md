@@ -14,7 +14,7 @@
   [0, 0, 0, 0, 0, 1, 0, 0] represents anger  
   [0, 0, 0, 0, 0, 0, 1, 0] represents fear  
   [0, 0, 0, 0, 0, 0, 0, 1] represents sad  
-  
+
 #Aesthetic Scores  
 The aesthetic raw scores are contained in h5py file scores.h5  
 Scores.h5 contains key: score
