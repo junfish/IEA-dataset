@@ -22,3 +22,4 @@ The scores are stored in  22086*11 matrix
 1-10 column: ten users  
 11 column: total score of every image  
 
+A more detailed introduction: https://github.com/zhenshen-mla/Aesthetic-Emotion-Dataset
